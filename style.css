@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+}
+
+html {
+  background-image: url('images/BG2.png');
+}
+
+canvas {
+  /* margin:auto; */
+  display: block;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: azure;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-color: darkblue;
+  border-width: 3px;
+  border-style: solid;
+}
+
+
